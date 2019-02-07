@@ -1,0 +1,29 @@
+
+/*this will change the text to red*/
+.changered
+{
+    color: red;
+}
+/*this will change the text to blue*/
+.changeblue
+{
+    color:blue;
+}
+/*this will change the background green and text white*/
+.textwhite
+{
+    background:lightgreen;
+    color:white;
+}
+/*this will change the background orange and text pink*/
+.textpink
+{
+    background: orange;
+    color:deeppink;
+}
+
+/*this is for problem 3 and will change the back ground to grey*/
+.changetogrey
+{
+    background: dimgrey;
+}
